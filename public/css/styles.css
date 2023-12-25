@@ -1,0 +1,20 @@
+
+body {
+  background-color:grey;
+
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  background-color: #000;
+}
+.jumbotron{
+  background-color:grey;
+}
